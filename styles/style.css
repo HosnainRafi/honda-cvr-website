@@ -1,0 +1,40 @@
+/* Common section  */
+body{
+    font-family: 'Source Sans Pro', sans-serif;
+}
+/* Header section  */
+header{
+    padding-top: 100px;
+    padding-bottom: 100px;
+    background-color: #264653;
+    color: white;
+    /* text-align: justify; */
+}
+.header-title{
+    padding-right: 150px;
+    padding-left: 50px;
+}
+header h6{
+    font-weight: 300;
+    font-size: 14px;
+}
+header h1{
+    font-weight: 600;
+    font-size: 48px;
+    padding-bottom: 10px;
+}
+header p{
+    font-weight: 300;
+    font-size: 16px;
+    padding-bottom: 5px;
+}
+.honda-btn{
+    background-color: #E76F51;
+    width: 168px;
+    height: 44px;
+    color: white;
+    font-weight: 500;
+    font-size: 16px;
+    border-radius: 5px;
+}
+

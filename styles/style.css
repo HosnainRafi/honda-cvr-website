@@ -107,6 +107,13 @@ header p{
 article{
     padding-bottom: 140px;
 }
+article h1{
+    font-size: 48px;
+    font-weight: 600;
+}
+article img{
+    padding-right: 15%;
+}
 .question-title{
     padding-bottom: 115px;
 }

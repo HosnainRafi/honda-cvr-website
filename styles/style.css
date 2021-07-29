@@ -37,4 +37,80 @@ header p{
     font-size: 16px;
     border-radius: 5px;
 }
+.modal-content{
+    color: black;
+}
+/* Feature bike section  */
+.feature-bike-title{
+    margin: 64px auto 115px auto;
+}
+.feature-bike-title h1{
+    font-size: 48px;
+    font-weight: 600;
+}
+.feature-bike-title h5{
+    font-weight: 600;
+    font-size: 14px;
+}
+.orange-title{
+    color: #E76F51;
+}
+.feature-bike-img img{
+    padding: 0px 60px;
+    padding-bottom: 145px;
+}
+.gray-effect{
+    filter: grayscale(1);
+}
+/* Happy Client section  */
+.about-client{
+    padding-bottom: 160px;
+}
+.card{
+    width: 323px;
+}
+.client-title{
+    padding-bottom: 50px;
+}
+.about-client img{
+    width: 150px;
+    margin: 0 auto;
+    padding-top: 40px;
+}
+.card-body{
+    padding: 35px;
+}
+.card-text{
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 26px;
+}
+.icons{
+    padding-bottom: 15px;
+}
+.fas{
+    color: #E77C40;
+}
+.far{
+    color: #E77C40;
+}
+.card-body h6{
+    font-size: 14px;
+    font-weight: 600;
+}
+.blue-title{
+    color: #23A6F0;
+    padding-bottom: 10px;
+}
+
+/* Question Section  */
+article{
+    padding-bottom: 140px;
+}
+.question-title{
+    padding-bottom: 115px;
+}
+.accordion-item{
+    margin: 5%;
+}
 
